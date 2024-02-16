@@ -1,3 +1,0 @@
-module.exports = {
-    accessToken: 'EAAFZA9xhpCpkBO4ztr0ZAwOAa3UTTOTa0VFCYPjWLpIZANakRgNExMQcny6sbnCY84IHbZBV8Mw8eO8RJM8ssM1cckkFqY8so4qd708rQifW89jeb1tmZBBpFKxSdbL2unGiQ0GJxamW5a5amOCGifIFe1AkH4ccRK9jOujSNm4pv2rgpp9SfCuWzMmYCXQZA6',
-  };
